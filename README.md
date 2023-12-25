@@ -3,14 +3,13 @@
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println!(%22Hello%2C%20World%22);世界はとても綺麗…&center=true&size=27" />
     </a>
-  </div>
+</div>
 
 <font color="pink" size="4" face="Comic Sans MS">——Home page for <i><b>Zaddle</b></i> </font>
 <br><br><br>
 
 <div align="center"> <img heigt="310px" src="https://github.com/zaddle55/zaddle55/assets/97674291/d3e16ed4-22f0-45aa-b2ef-1ac6833fd08b"></div>
 <br>
-
 
 <!--
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=zaddle55&theme=xcode" /> </div>
