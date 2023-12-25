@@ -1,7 +1,10 @@
-<center> 
-<font color="lightblue" size="5">世界はとても綺麗… </font><br>
-</center>
-<br>
+<!-- dynamic typing effect 动态打字效果 -->
+<div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println!(%22Hello%2C%20World%22);世界はとても綺麗…&center=true&size=27" />
+    </a>
+  </div>
+
 <font color="pink" size="4" face="Comic Sans MS">——Home page for <i><b>Zaddle</b></i> </font>
 <br><br><br>
 
@@ -16,7 +19,6 @@
 <br>
 
 ## Profile🎈
-
 
 ## Action⭐
 
