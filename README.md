@@ -46,7 +46,7 @@
 </td></tr>
 <!--  skill badge 技能徽章 -->
 <tr><td>
-<p align="center">
+<div align="center">
 
 正在学习
 
@@ -61,7 +61,7 @@
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 
-</p>
+</div>
 </td></tr>
 
 </table>
