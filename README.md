@@ -24,7 +24,7 @@
 <tr><td>
 <div align="center">
   <a href="https://github.com/zaddle55">
-    <img src="https://camo.githubusercontent.com/e2fed45eeddf5c4e8af379d928f6c2da3617a343291af1763c6af7bab347e431/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67"/>
+    <img src="https://camo.githubusercontent.com/958d3c4a2ec51daf18c5eeed23bed3f039ca13a6aa96a056b7883d9a642c5fbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67"/>
   </a>
 </div>
 </td></tr>
@@ -62,6 +62,11 @@
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 
 </div>
+</td></tr>
+
+<!-- GitHub 数据统计 -->
+<tr><td>
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zaddle55&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 </td></tr>
 
 </table>
