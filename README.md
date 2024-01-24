@@ -21,7 +21,7 @@
 
 <table>
 
-<tr><td>
+<tr><td colspan="3">
 <div align="center">
   <a href="https://github.com/zaddle55">
     <img src="https://camo.githubusercontent.com/958d3c4a2ec51daf18c5eeed23bed3f039ca13a6aa96a056b7883d9a642c5fbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67"/>
@@ -29,7 +29,7 @@
 </div>
 </td></tr>
 
-<tr><td>
+<tr><td colspan="3">
 <div align="center">
     <img src="https://img.shields.io/badge/方向-Neuro Network-99FFCC"/>&emsp;
     <img src="https://img.shields.io/badge/兴趣-Animation-FFFF00">&emsp;
@@ -45,7 +45,7 @@
 </div>    
 </td></tr>
 <!--  skill badge 技能徽章 -->
-<tr><td>
+<tr><td colspan="">
 <div align="center">
 
 正在学习
@@ -53,6 +53,10 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+
+</div></td>
+
+<td><div align="center">
 
 计划学习
 
@@ -65,7 +69,7 @@
 </td></tr>
 
 <!-- GitHub 数据统计 -->
-<tr><td>
+<tr><td colspan="2">
 <div align="center">
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zaddle55&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 </div>
