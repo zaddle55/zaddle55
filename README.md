@@ -38,9 +38,13 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://twitter.com/nachi_aka"><img src="https://img.shields.io/badge/Twitter-Nachi__aka-0099FF"/>&emsp;
-  <a href="https://www.pixiv.net/users/50408612"><img src="https://img.shields.io/badge/Pixiv-Zaddle-00CCFF"/>&emsp;
-  <a href="http://www.outlook.com"><img src="https://img.shields.io/badge/Outlook-zaddle23187@outlook.com-0066CC"/>&emsp;
+  <a href="https://twitter.com/nachi_aka"><img src="https://img.shields.io/badge/Twitter-Nachi_aka-%231D9BF0?style=flat&logo=twitter&logoColor=white
+  "/>&emsp;
+  <a href="https://www.pixiv.net/users/50408612"><img src="https://img.shields.io/badge/Pixiv-Zaddle-%230096FA?style=flat&logo=pixiv&logoColor=white
+  "/>&emsp;
+  <a href="http://www.outlook.com"><img src="https://img.shields.io/badge/Outlook-zaddle23187%40outlook.com-%230078D4?style=flat&logo=microsoftoutlook&logoColor=white
+  "/>&emsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-zaddle-%23FFA116?style=flat&logo=leetcode&logoColor=white&link=https%3A%2F%2Fleetcode.cn%2Fu%2Fzaddle%2F">
   </a>
 </div>    
 </td></tr>
@@ -53,6 +57,14 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white&link=www.git.com)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white&link=www.ubuntu.com)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=flat&logo=jupyter&logoColor=white&link=www.jupyter.com)
+![Haskell](https://img.shields.io/badge/Haskell-%23262D3A?style=flat&logo=haskell&logoColor=white)
+
+
+
+
 
 </div></td>
 
@@ -62,8 +74,16 @@
 
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833?style=flat&logo=anaconda&logoColor=white&link=www.anaconda.com)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white&link=www.docker.com)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white&link=www.pytorchcom)
+
+
+
+
+
 
 </div>
 </td></tr>
