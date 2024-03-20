@@ -11,10 +11,6 @@
 <div align="center"> <img heigt="310px" src="https://github.com/zaddle55/zaddle55/assets/97674291/d3e16ed4-22f0-45aa-b2ef-1ac6833fd08b"></div>
 <br>
 
-
-<!--<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=zaddle55&theme=xcode" /> </div> 
--->
-
 <br>
 
 ## 🎈Profile<!--个人简历窗格-->
@@ -89,7 +85,7 @@
 <table>
 <tr><td colspan="3">
 
-[![Zadle's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaddle55&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Zadle's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaddle55&show_icons=true&count_private=true&hide_border=true&icon_color=00BFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 
@@ -103,6 +99,6 @@
 
 <br>
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zaddle55&theme=react-dark"/></div>
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zaddle55&bg_color=ffffff&line=87CEFA&hide_border=true&color=1E90FF"/></div>
 
 </td></tr>
