@@ -17,7 +17,7 @@
 
 <br>
 
-## Profile🎈<!--个人简历窗格-->
+## 🎈Profile<!--个人简历窗格-->
 
 <table>
 
@@ -38,12 +38,9 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://twitter.com/nachi_aka"><img src="https://img.shields.io/badge/Twitter-Nachi_aka-%231D9BF0?style=flat&logo=twitter&logoColor=white
-  "/>&emsp;
-  <a href="https://www.pixiv.net/users/50408612"><img src="https://img.shields.io/badge/Pixiv-Zaddle-%230096FA?style=flat&logo=pixiv&logoColor=white
-  "/>&emsp;
-  <a href="http://www.outlook.com"><img src="https://img.shields.io/badge/Outlook-zaddle23187%40outlook.com-%230078D4?style=flat&logo=microsoftoutlook&logoColor=white
-  "/>&emsp;
+  <a href="https://twitter.com/nachi_aka"><img src="https://img.shields.io/badge/Twitter-Nachi_aka-%231D9BF0?style=flat&logo=twitter&logoColor=white"/>&emsp;
+  <a href="https://www.pixiv.net/users/50408612"><img src="https://img.shields.io/badge/Pixiv-Zaddle-%230096FA?style=flat&logo=pixiv&logoColor=white"/>&emsp;
+  <a href="http://www.outlook.com"><img src="https://img.shields.io/badge/Outlook-zaddle23187%40outlook.com-%230078D4?style=flat&logo=microsoftoutlook&logoColor=white"/>&emsp;
   <br>
   <img src="https://img.shields.io/badge/Leetcode-zaddle-%23FFA116?style=flat&logo=leetcode&logoColor=white&link=https%3A%2F%2Fleetcode.cn%2Fu%2Fzaddle%2F">
   </a>
@@ -87,7 +84,7 @@
 
 </table>
 
-## Action⭐ <!-- GitHub 数据统计 -->
+## ⭐Action <!-- GitHub 数据统计 -->
 
 <table>
 <tr><td colspan="3">
@@ -98,7 +95,7 @@
 
 <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 
