@@ -99,6 +99,6 @@
 
 <br>
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zaddle55&bg_color=ffffff&line=87CEFA&color=1E90FF"/></div>
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zaddle55&bg_color=ffffff&line=87CEFA&color=1E90FF&hide_border=true"/></div>
 
 </td></tr>
