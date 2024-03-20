@@ -1,8 +1,6 @@
 <!-- dynamic typing effect 动态打字效果 -->
 <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println!(%22Hello%2C%20World%22);世界はとても綺麗…&center=true&size=27" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2525F7&center=true&random=false&width=435&lines=println!(%22Hello%2C+world!%22);%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%A8%E3%81%A6%E3%82%82%E7%B6%BA%E9%BA%97..." alt="Typing SVG" /></a>
 </div>
 
 <font color="pink" size="4" face="Comic Sans MS">——Home page for <i><b>Zaddle</b></i> </font>
