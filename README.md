@@ -47,9 +47,11 @@
 
 正在学习
 
+![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white&color=orange)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white&link=www.git.com)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white&link=www.ubuntu.com)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=flat&logo=jupyter&logoColor=white&link=www.jupyter.com)
