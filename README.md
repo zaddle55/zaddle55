@@ -91,13 +91,13 @@
 <table>
 <tr><td colspan="3">
 
-[![Zadle's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaddle55&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Zadle's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaddle55&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 
 <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 
