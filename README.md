@@ -81,37 +81,30 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white&link=www.pytorchcom)
 
 
-
-
-
-
-</div>
-</td></tr>
-
-<!-- GitHub 数据统计 -->
-<tr><td colspan="2">
-<div align="center">
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zaddle55&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 </div>
 </td></tr>
 
 </table>
 
-## Action⭐
+## Action⭐ <!-- GitHub 数据统计 -->
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zaddle55&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<table>
+<tr><td colspan="2">
+
+[![Zadle's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaddle55&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+
+<tr><td colspan="3" >
 
 <br>
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zaddle55&theme=react-dark"/></div>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td></tr>
