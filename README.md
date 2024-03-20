@@ -44,7 +44,8 @@
   "/>&emsp;
   <a href="http://www.outlook.com"><img src="https://img.shields.io/badge/Outlook-zaddle23187%40outlook.com-%230078D4?style=flat&logo=microsoftoutlook&logoColor=white
   "/>&emsp;
-  <img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-zaddle-%23FFA116?style=flat&logo=leetcode&logoColor=white&link=https%3A%2F%2Fleetcode.cn%2Fu%2Fzaddle%2F">
+  <br>
+  <img src="https://img.shields.io/badge/Leetcode-zaddle-%23FFA116?style=flat&logo=leetcode&logoColor=white&link=https%3A%2F%2Fleetcode.cn%2Fu%2Fzaddle%2F">
   </a>
 </div>    
 </td></tr>
