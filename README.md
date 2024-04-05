@@ -101,3 +101,23 @@
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zaddle55&bg_color=ffffff&line=87CEFA&color=1E90FF&hide_border=true"/></div>
 
 </td></tr>
+
+<!-- Primary Meta Tags -->
+<title>南十字星站</title>
+<meta name="title" content="南十字星站" />
+<meta name="description" content="愿你今后的人生一直有幸福的“魔法”相伴" />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://zaddle.top/" />
+<meta property="og:title" content="南十字星站" />
+<meta property="og:description" content="愿你今后的人生一直有幸福的“魔法”相伴" />
+<meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content="https://zaddle.top/" />
+<meta property="twitter:title" content="南十字星站" />
+<meta property="twitter:description" content="愿你今后的人生一直有幸福的“魔法”相伴" />
+<meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
+
