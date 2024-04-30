@@ -40,11 +40,10 @@
 </div>    
 </td></tr>
 <!--  skill badge 技能徽章 -->
-<tr><td colspan="">
+<tr><td colspan="4">
 <div align="center">
-
-正在学习
-
+<p>正在学习</p>
+<!--
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white&color=orange)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
@@ -54,17 +53,18 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white&link=www.ubuntu.com)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=flat&logo=jupyter&logoColor=white&link=www.jupyter.com)
 ![Haskell](https://img.shields.io/badge/Haskell-%23262D3A?style=flat&logo=haskell&logoColor=white)
+-->
+<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/C.png" alt="C" width="80px"/>
+<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/CSS完全に理解した.png" alt="CSS" width="80px"/>
+<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Haskell.png" alt="Haskell" width="80px"/>
+<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Java.png" alt="Java" width="80px">
 
+</div></td></tr>
 
+<tr><td><div align="center">
 
-
-
-</div></td>
-
-<td><div align="center">
-
-计划学习
-
+<p>计划学习</p>
+<!--
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
@@ -72,6 +72,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833?style=flat&logo=anaconda&logoColor=white&link=www.anaconda.com)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white&link=www.docker.com)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white&link=www.pytorchcom)
+-->
 
 
 </div>
@@ -96,28 +97,8 @@
 
 <tr><td colspan="4" >
 
-<br>
+<br></br>
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zaddle55&bg_color=ffffff&line=87CEFA&color=1E90FF&hide_border=true"/></div>
 
 </td></tr>
-
-<!-- Primary Meta Tags -->
-<title>南十字星站</title>
-<meta name="title" content="南十字星站" />
-<meta name="description" content="愿你今后的人生一直有幸福的“魔法”相伴" />
-
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://zaddle.top/" />
-<meta property="og:title" content="南十字星站" />
-<meta property="og:description" content="愿你今后的人生一直有幸福的“魔法”相伴" />
-<meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
-
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content="https://zaddle.top/" />
-<meta property="twitter:title" content="南十字星站" />
-<meta property="twitter:description" content="愿你今后的人生一直有幸福的“魔法”相伴" />
-<meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
-
