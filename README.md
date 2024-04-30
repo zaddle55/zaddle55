@@ -57,12 +57,13 @@
 <img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/C.png" alt="C" width="80px"/>
 <img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/CSS完全に理解した.png" alt="CSS" width="80px"/>
 <img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Haskell.png" alt="Haskell" width="80px"/>
-<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Java.png" alt="Java" width="80px">
-
+<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Java.png" alt="Java" width="80px"/>
+<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Python.png" alt="Python" width="80px"/>
+<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Ubuntu.png" alt="Ubuntu" width="80px"/>
+<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/C++.png" alt="Cpp" width="80px"/>
 </div></td></tr>
 
 <tr><td><div align="center">
-
 <p>计划学习</p>
 <!--
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -73,8 +74,9 @@
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white&link=www.docker.com)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white&link=www.pytorchcom)
 -->
-
-
+<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Node.js.png" alt="Node.js" width="80px"/>
+<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/TypeScript.png" alt="TypeScript" width="80px"/>
+<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Golang.png" alt="Golang" width="80px"/>
 </div>
 </td></tr>
 
