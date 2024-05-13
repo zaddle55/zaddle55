@@ -111,10 +111,10 @@
 <table>
   <tr>
     <td><img src="https://zaddle.top/img/favicon.ico" alt="favicon" width="20px"/ align="center">
-    <a href="www.zaddle.top">南十字星站</a></td>
+    <a href="https://zaddle.top">南十字星站</a></td>
   </tr>
   <tr>
-    <td><img src="https://s0.wp.com/mshots/v1/https://zaddle.top?w=1024&h=728" alt="website-preview"/></td>
+    <td><img src="https://urlscan.io/liveshot/?width=1024&height=728&url=https://zaddle.top"/></td>
   </tr>
 </table>
 </div>
