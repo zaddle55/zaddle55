@@ -114,7 +114,7 @@
     <a href="https://zaddle.top">南十字星站</a></td>
   </tr>
   <tr>
-    <td><img src="https://urlscan.io/liveshot/?width=1024&height=728&url=https://zaddle.top"/></td>
+    <td><img src="https://urlscan.io/liveshot/?width=1024&height=1470&url=https://zaddle.top"/></td>
   </tr>
 </table>
 </div>
