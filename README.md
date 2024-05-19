@@ -87,15 +87,47 @@
 <table>
 <tr><td colspan="3">
 
-[![Zadle's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaddle55&show_icons=true&count_private=true&hide_border=true&icon_color=00BFFF)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="hhttps://github-readme-stats.vercel.app/api?username=zaddle55&show_icons=true&count_private=true&hide_border=true&icon_color=00BFFF&show=reviews,discussions_started,discussions_answered,prs_merged"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zaddle55&show_icons=true&count_private=true&hide_border=true&icon_color=00BFFF&show=reviews,discussions_started,discussions_answered,prs_merged"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zaddle55&show_icons=true&count_private=true&hide_border=true&icon_color=00BFFF&show=&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zaddle55&layout=compact&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset=https://github-readme-stats.vercel.app/api/top-langs/?username=zaddle55&layout=compact&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaddle55&layout=compact&hide_border=true" />
+</picture>
 
 </td>
 
-<td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaddle55&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
+<tr><td>
+<!-- WakaTime
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset=https://github-readme-stats.vercel.app/api/wakatime?username=zaddle55&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaddle55&layout=compact&hide_border=true" />
+</picture>
+-->
+</td></tr>
 
 <tr><td colspan="4" >
 
