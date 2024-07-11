@@ -55,12 +55,15 @@
 ![Haskell](https://img.shields.io/badge/Haskell-%23262D3A?style=flat&logo=haskell&logoColor=white)
 -->
 <img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/C.png" alt="C" width="100px"/>
+<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/C++.png" alt="Cpp" width="100px"/>
+<img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Html/HTML.png" alt="Html" width="100px"/>
 <img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/CSS完全に理解した.png" alt="CSS" width="100px"/>
 <img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Haskell.png" alt="Haskell" width="100px"/>
 <img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Java.png" alt="Java" width="100px"/>
 <img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Python.png" alt="Python" width="100px"/>
+<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/TypeScript.png" alt="TypeScript" width="100px"/>
 <img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Ubuntu.png" alt="Ubuntu" width="100px"/>
-<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/C++.png" alt="Cpp" width="100px"/>
+<img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/RaspberryPi/Raspberry Pi.png" alt="Raspberry Pi" width="100px"/>
 </div></td></tr>
 
 <tr><td><div align="center">
@@ -74,9 +77,12 @@
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white&link=www.docker.com)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white&link=www.pytorchcom)
 -->
+<img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Tailwindcss/Tailwindcss6.png" alt="Tailwindcss" width="100px"/>
 <img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Node.js.png" alt="Node.js" width="100px"/>
-<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/TypeScript.png" alt="TypeScript" width="100px"/>
+<img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/React/React.png" alt="React" width="100px"/>
+<img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Next.js/Next.js.png" alt="Next.js" width="100px"/>
 <img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Golang.png" alt="Golang" width="100px"/>
+<img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Htmx/htmx.png" alt="Htmx" width="100px"/>
 </div>
 </td></tr>
 
@@ -96,7 +102,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=zaddle55&show_icons=true&count_private=true&icon_color=00BFFF&show=reviews,discussions_started,discussions_answered,prs_merged"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=zaddle55&show_icons=true&count_private=true&icon_color=00BFFF&show=reviews,discussions_started,discussions_answered,prs_merged" />
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=zaddle55&show_icons=true&count_private=true&icon_color=00BFFF&show=reviews,discussions_started,discussions_answered,prs_merged" />
 </picture>
 <picture>
   <source
@@ -107,25 +113,25 @@
     srcset=https://github-readme-stats.vercel.app/api/top-langs/?username=zaddle55&layout=compact&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaddle55&layout=compact&hide_border=true" />
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaddle55&layout=compact&hide_border=true" />
 </picture>
 
 </td>
 
 <tr><td>
-<!-- WakaTime
+<!-- WakaTime-->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zaddle&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset=https://github-readme-stats.vercel.app/api/wakatime?username=zaddle55&layout=compact"
+    srcset=https://github-readme-stats.vercel.app/api/wakatime?username=zaddle&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaddle55&layout=compact&hide_border=true" />
+  <img width="520" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zaddle&layout=compact" />
 </picture>
--->
+
 </td></tr>
 
 <tr><td colspan="4" >
