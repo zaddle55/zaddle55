@@ -25,7 +25,7 @@
 
 <tr><td colspan="3">
 <div align="center">
-    <img src="https://img.shields.io/badge/方向-Neuro Network-99FFCC"/>&emsp;
+    <img src="https://img.shields.io/badge/方向-Evolutionary Computation-99FFCC"/>&emsp;
     <img src="https://img.shields.io/badge/兴趣-Animation-FFFF00">&emsp;
     <img src="https://img.shields.io/badge/兴趣-Galgame-FFFF99">&emsp;
     <img src="https://img.shields.io/badge/兴趣-Otomad-FFCC66">&emsp;
