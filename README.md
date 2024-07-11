@@ -122,14 +122,14 @@
 <!-- WakaTime-->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zaddle&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zaddle\&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset=https://github-readme-stats.vercel.app/api/wakatime?username=zaddle&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zaddle\&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="520" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zaddle&layout=compact" />
+  <img width="520" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zaddle\&layout=compact" />
 </picture>
 
 </td></tr>
