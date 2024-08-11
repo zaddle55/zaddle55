@@ -64,6 +64,7 @@
 <img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/TypeScript.png" alt="TypeScript" width="100px"/>
 <img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Ubuntu.png" alt="Ubuntu" width="100px"/>
 <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/RaspberryPi/Raspberry Pi.png" alt="Raspberry Pi" width="100px"/>
+<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Rust.png" alt="Rust" width="100px"/>
 </div></td></tr>
 
 <tr><td><div align="center">
@@ -83,6 +84,7 @@
 <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Next.js/Next.js.png" alt="Next.js" width="100px"/>
 <img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/Golang.png" alt="Golang" width="100px"/>
 <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Htmx/htmx.png" alt="Htmx" width="100px"/>
+<img src="https://raw.githubusercontent.com/zaddle55/Picgo/main/images/FlutterTransparent.png" alt="Flutter" width="100px"/>
 </div>
 </td></tr>
 
