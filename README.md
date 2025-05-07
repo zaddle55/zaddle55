@@ -15,6 +15,7 @@
 
 <table>
 
+<!--
 <tr><td colspan="3">
 <div align="center">
   <a href="https://github.com/zaddle55">
@@ -22,6 +23,7 @@
   </a>
 </div>
 </td></tr>
+-->
 
 <tr><td colspan="3">
 <div align="center">
@@ -146,6 +148,7 @@
 </table>
 
 ## 💻Website<!--个人博客-->
+<!--
 <div align="center">
 <table>
   <tr>
@@ -157,5 +160,6 @@
   </tr>
 </table>
 </div>
+-->
 
 [![Blog](https://github-readme-fancy-website-card.vercel.app/?url=https://zaddle.top&preview=https://raw.githubusercontent.com/zaddle55/Picgo/main/images/alice.jpg)](https://zaddle.top/)
